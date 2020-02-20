@@ -1,5 +1,3 @@
-# SEMAINE PRO
+# MARCHE SANS LA GESTION DES ANGLES ET DE LA VITESSE
 
-fichier interfaceAutonome.py avec robot se déplacant de facon autonome
-
-fichier interfaceAutonomeVitesse.py permet de choisir la vitesse avec les touches a , z , e
+fichier interfaceSeparer.py avec robot se déplacant de facon autonome
